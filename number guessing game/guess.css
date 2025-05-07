@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: aqua;
+}
+body{
+    background-color: rgb(2, 35, 35);
+}
+h2{
+    color: #f7e4e4;
+    font-size: 5em;
+    text-align: center;
+
+}
+button{
+    font-size: 2em;
+
+
+    
+    
+}
+button:hover{
+    
+    font-size: 3em;
+    color: rgb(106, 76, 32);
+}
+.dude{
+    background-image:url('image.png') ;
+    text-align: center;
+
+    border: 5px solid blue;
+
+}
